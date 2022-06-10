@@ -1,0 +1,21 @@
+.header {
+    background-color: #7fffd4;
+    width: 100%;
+    float: left;
+}
+.div__nav {
+    background-color: #489292;
+    width: 35%;
+    float: right;
+}
+.div__about {
+    background-color: #6e88e6;
+    width: 65%;
+    float: left;
+}
+
+.footer {
+    background-color: #b642d9;
+    width: 65%;
+    float: left;
+}
